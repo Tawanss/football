@@ -1,5 +1,5 @@
-# football
-เเทงบอลไม่เเทงคน
+# football ⚽:
+(เเปะไว้เฉยๆกันว่าง)
 - Midterm (data prepocessing ปฏิบัติ(เดี่ยว)) 20%
 - Final (ทฤษฎี data mining เดี่ยว) 20%
 - Project (data processing + data mining(กลุ่ม)) 30%
